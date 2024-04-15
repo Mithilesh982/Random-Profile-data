@@ -1,0 +1,4 @@
+.container-fluid .row .sidebar{
+    height:90vh;
+    overflow-y: auto;
+}
